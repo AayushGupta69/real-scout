@@ -3,7 +3,7 @@ import {View, Text} from "react-native";
 const Explore = () => {
     return (
         <View>
-            <Text>Profile</Text>
+            <Text>Explore</Text>
         </View>
     )
 }
