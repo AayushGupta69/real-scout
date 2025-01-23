@@ -1,6 +1,5 @@
 import {FlatList, Image, Text, TouchableOpacity, View} from "react-native";
 import {SafeAreaView} from "react-native-safe-area-context";
-import images from "@/constants/images";
 import icons from "@/constants/icons";
 import Search from "@/components/search";
 import {Card, FeaturedCard} from "@/components/cards";
