@@ -57,3 +57,14 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Screenshots
+
+- Home Page
+![Home Section](https://github.com/user-attachments/assets/feaaa2e3-bf47-46c7-8342-e58f9690de78)
+
+- Explore Page
+![Explore Section](https://github.com/user-attachments/assets/e9cd748d-6a39-4edb-84d7-c3ff3f5b8fbc)
+
+- Profile Page
+![Profile Section](https://github.com/user-attachments/assets/769e06ec-a06d-429a-8584-4eccfd522ccc)
